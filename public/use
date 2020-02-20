@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>You Order</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&display=swap" rel="stylesheet">
+  </head>
+  <body border="0" style=" border-spacing: 0">
+    <!-- Start of HTML Email -->
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-spacing: 0;">
+      <tr>
+        <td>
+          <!-- Start of Container -->
+          <table class="container" width="480px" align="canter" cellspacing="0" border="0" cellspacing="0" >
+            <!-- Start of top -->
+            <tr>
+              <td>
+                <table class="top" width="480px" align="center" cellspacing="0" border="0" cellspacing="0">
+                  <tr>
+                    <td align="center" style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; font-weight: 700; color: #441505;">
+                      <img src="https://orderv1strg.blob.core.windows.net/assets/order/email/logo_fglpyr.jpg" alt="Logo" style="width: 300px;">
+                      <p style="font-size: 35px; padding: 0 !important;">
+                        YOUR ORDER IS IN,<br>RICARDO
+                      </p>
+                      <img src="https://orderv1strg.blob.core.windows.net/assets/order/email/bag_gnro0t.jpg" alt="Chipotle bag">
+                      <p>
+                        ESTIMATED PICKUP TIME:
+                      </p>
+                      <p>2:00 PM</p>
+                      <p>02/09/2020 (Today)</p>
+                    </tdalign="center">
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- End of top -->
+
+
+            <!-- Start of location -->
+            <tr>
+              <td>
+                
+              </td>
+            </tr>
+            <!-- End of location -->
+
+
+            <!-- Start of order details -->
+            <tr>
+              <td>
+                
+              </td>
+            </tr>
+            <!-- End of order details -->
+
+
+            <!-- Start of survey -->
+            <tr>
+              <td>
+                
+              </td>
+            </tr>
+            <!-- End of survey -->
+
+
+
+            <!-- Start of footer -->
+            <tr>
+              <td>
+                
+              </td>
+            </tr>
+            <!-- End of footer -->
+          </table>
+          <!-- End of Container -->
+        </td>
+      </tr>
+    </table>
+
+  </body>
+  <!-- End of HTML Email -->
+</html>
